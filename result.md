@@ -1,3 +1,7 @@
+Test machine:
+
+![test machine](system_info.png)
+
 node 16
 
 Start benchmark, iteration per test 1000000

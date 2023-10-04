@@ -1,12 +1,13 @@
-Test machine:
+#### Test machine:
 
 ![test machine](system_info.png)
 
-node 16
-
 Start benchmark, iteration per test 1000000
 
-Result:
+## Result:
+
+### node 16
+
 - NormalEgg1 => 117.56320833337183 ms
 - NormalEgg2 => 122.89447066669042 ms
 - NormalEgg3 => 122.44642033319299 ms
@@ -16,7 +17,7 @@ Result:
 - MisunderstoodEgg3 => 553.8344616667988 ms
 - MisunderstoodEgg4 => 769.8537286664359 ms
 
-node 18
+### node 18
 
 - NormalEgg1 => 121.13038766679044 ms
 - NormalEgg2 => 122.23305800013866 ms
@@ -28,7 +29,7 @@ node 18
 - MisunderstoodEgg4 => 372.05425966670737 ms
 
 
-browser(117.0.5938.92):
+### browser(117.0.5938.92):
 
 - NormalEgg1 => 89.56666666672875 ms
 - NormalEgg2 => 103.53333333320916 ms

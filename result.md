@@ -29,7 +29,7 @@ Start benchmark, iteration per test 1000000
 - MisunderstoodEgg4 => 372.05425966670737 ms
 
 
-### browser(117.0.5938.92):
+### browser(chrome 117.0.5938.92):
 
 - NormalEgg1 => 89.56666666672875 ms
 - NormalEgg2 => 103.53333333320916 ms
